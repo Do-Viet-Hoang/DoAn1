@@ -1,0 +1,19 @@
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe.config
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+E:\Đồ án 1 (Bến xe Mỹ Đình)\Đồ án 1.Xe khách Bến Xe Mỹ Đình (Code)\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.csprojResolveAssemblyReference.cache
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe.config
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+E:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.csprojResolveAssemblyReference.cache
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe.config
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.exe
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\bin\Debug\DA1.QuanLyXeKhachBenXeMyDinh.pdb
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.csprojAssemblyReference.cache
+F:\DA1.QuanLyXeKhachBenXeMyDinh\DA1.QuanLyXeKhachBenXeMyDinh\obj\Debug\DA1.QuanLyXeKhachBenXeMyDinh.csproj.CoreCompileInputs.cache
